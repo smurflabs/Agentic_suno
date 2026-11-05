@@ -1,0 +1,18 @@
+# Your Suno session and this server's API key: never commit them.
+auth_state.json
+auth_state.json.*
+*.tmp
+api_key.txt
+chrome-profile/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Logs and local captures
+server.log
+server.log.*
+*.jsonl
+*.bak-*
